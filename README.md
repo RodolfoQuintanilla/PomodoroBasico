@@ -1,4 +1,4 @@
-# Link de apk Terminada: https://expo.dev/accounts/rodolfoquintanilla/projects/pomo/builds/0d63d52d-8329-4b1b-8e0b-d20cf6339a40
+# Link de apk Proyecto Terminado: https://expo.dev/accounts/rodolfoquintanilla/projects/pomo/builds/0d63d52d-8329-4b1b-8e0b-d20cf6339a40
 
 Descripción del Proyecto: Pomodoro Básico en React Native con expo
 
